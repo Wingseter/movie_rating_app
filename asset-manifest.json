@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movie_rating_app/static/css/main.34b4798f.chunk.css",
-    "main.js": "/movie_rating_app/static/js/main.cf400621.chunk.js",
-    "main.js.map": "/movie_rating_app/static/js/main.cf400621.chunk.js.map",
-    "runtime-main.js": "/movie_rating_app/static/js/runtime-main.bdd751da.js",
-    "runtime-main.js.map": "/movie_rating_app/static/js/runtime-main.bdd751da.js.map",
-    "static/js/2.ddcff673.chunk.js": "/movie_rating_app/static/js/2.ddcff673.chunk.js",
-    "static/js/2.ddcff673.chunk.js.map": "/movie_rating_app/static/js/2.ddcff673.chunk.js.map",
-    "index.html": "/movie_rating_app/index.html",
-    "precache-manifest.3a72240675d875662f1f23834e82e99a.js": "/movie_rating_app/precache-manifest.3a72240675d875662f1f23834e82e99a.js",
-    "service-worker.js": "/movie_rating_app/service-worker.js",
-    "static/css/main.34b4798f.chunk.css.map": "/movie_rating_app/static/css/main.34b4798f.chunk.css.map",
-    "static/js/2.ddcff673.chunk.js.LICENSE.txt": "/movie_rating_app/static/js/2.ddcff673.chunk.js.LICENSE.txt"
+    "main.css": "/movie_ration_app/static/css/main.34b4798f.chunk.css",
+    "main.js": "/movie_ration_app/static/js/main.cf400621.chunk.js",
+    "main.js.map": "/movie_ration_app/static/js/main.cf400621.chunk.js.map",
+    "runtime-main.js": "/movie_ration_app/static/js/runtime-main.cff48a3f.js",
+    "runtime-main.js.map": "/movie_ration_app/static/js/runtime-main.cff48a3f.js.map",
+    "static/js/2.ddcff673.chunk.js": "/movie_ration_app/static/js/2.ddcff673.chunk.js",
+    "static/js/2.ddcff673.chunk.js.map": "/movie_ration_app/static/js/2.ddcff673.chunk.js.map",
+    "index.html": "/movie_ration_app/index.html",
+    "precache-manifest.180f2c1a5d2c4a6cb6537b38e60ee544.js": "/movie_ration_app/precache-manifest.180f2c1a5d2c4a6cb6537b38e60ee544.js",
+    "service-worker.js": "/movie_ration_app/service-worker.js",
+    "static/css/main.34b4798f.chunk.css.map": "/movie_ration_app/static/css/main.34b4798f.chunk.css.map",
+    "static/js/2.ddcff673.chunk.js.LICENSE.txt": "/movie_ration_app/static/js/2.ddcff673.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bdd751da.js",
+    "static/js/runtime-main.cff48a3f.js",
     "static/js/2.ddcff673.chunk.js",
     "static/css/main.34b4798f.chunk.css",
     "static/js/main.cf400621.chunk.js"
