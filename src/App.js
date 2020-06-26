@@ -8,6 +8,7 @@ import Signin from "./routes/Signin";
 import Logout from "./routes/Logout";
 import Login from "./routes/Login";
 import AuthRoute from './components/AuthRoute';
+import Detail from "./routes/Detail";
 
 function App() {
   const [user, setUser] = useState(null);
@@ -21,6 +22,7 @@ function App() {
       <Route exact path = "/" component={Home}/>
       <Route path = "/about" component={About}/>
       <Route path = "/profile" component={Profile}/>
+      <Route path = "/movie/:id" component={Detail}/>
       <Route
         path = "/logout"
         render={props=>(
